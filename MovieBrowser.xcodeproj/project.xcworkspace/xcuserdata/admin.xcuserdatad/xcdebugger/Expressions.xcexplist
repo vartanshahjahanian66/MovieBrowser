@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SearchMovieViewModel.loadMoreData(query:language:page:year:include_adult:primary_release_year:region:):SearchMovieViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.pageNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieDetailViewController.calculateImageViewHeight(size:):MovieDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.movieImageView.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppContext.setAppContextValue(value:forKey:):AppContext.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "persistence">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SearchMovieViewModel.fetchSearchMovie(query:language:page:year:include_adult:primary_release_year:region:_:):SearchMovieViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.movieTtems ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SearchMovieRequest.init(query:language:page:year:include_adult:primary_release_year:region:):ServiceModels.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rquestParamerters.getURLStringParamertrs()">
+            </PersistentString>
+            <PersistentString
+               value = "self.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Network.fetchSearchMovie(query:language:page:year:include_adult:primary_release_year:region:_:):Network.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "responseData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SearchMovieViewController.scrollViewDidScroll(_:):SearchMovieViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.frame.height * 4">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Network.fetchSearchMovie(query:language:page:year:include_adult:primary_release_year:region:_:):Network.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SearchMovieViewController.setupSearchController():SearchMovieViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchController">
+            </PersistentString>
+            <PersistentString
+               value = "self.navigationController">
+            </PersistentString>
+            <PersistentString
+               value = "subView.subviews">
+            </PersistentString>
+            <PersistentString
+               value = "self.searchController.searchBar">
+            </PersistentString>
+            <PersistentString
+               value = "self.searchController.searchBar.value(forKey: &quot;cancelButton&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppContext.getValue&lt;A&gt;(forKey:as:):AppContext.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "persistence">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovieDetailViewController.updateUI():MovieDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image?.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SearchMovieViewController.tableView(_:willDisplay:forRowAt:):SearchMovieViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.viewModel.isLoading">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
